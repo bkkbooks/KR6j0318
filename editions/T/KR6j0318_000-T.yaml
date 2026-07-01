@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0318/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 救度佛母二十一種禮讚經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1108B.xml
+    old_id: T20n1108B
+hash: sha256:4d3bd388f9c1f91f69176be96ff929624d52ec7fd7a695b8fe3a4023e692943d

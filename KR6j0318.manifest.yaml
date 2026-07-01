@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6j0318/v1
+canonical_location: https://kanripo.org/bkk/KR6j0318/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 救度佛母二十一種禮讚經
+  identifiers:
+    alt_id:
+    - T20n1108B
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1108B.xml
+    old_id: T20n1108B
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0318_000.yaml, hash: 'sha256:4d3bd388f9c1f91f69176be96ff929624d52ec7fd7a695b8fe3a4023e692943d'}
+  - {seq: 1, filename: KR6j0318_001.yaml, hash: 'sha256:cc156bde2378b5ed9860201844150fda306a169ee6f13710c62ac505865728d5'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0318_001.markers.yaml, hash: 'sha256:0fee342894294ed22bc33bf74139761ea6c940068bd28fbf48a0ab2d96d56258'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0318_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1408
+  label: 救度佛母二十一種禮讚經
+  type: juan
+  level: 1
+hash: sha256:a5ea7512f41eb923702566f043d2485c2b7e367df6ac3f13db386b11741e7612
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: T
