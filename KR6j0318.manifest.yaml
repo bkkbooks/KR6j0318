@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0318/v1
 canonical_location: https://kanripo.org/bkk/KR6j0318/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 救度佛母二十一種禮讚經
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0318_000.yaml, hash: 'sha256:4d3bd388f9c1f91f69176be96ff929624d52ec7fd7a695b8fe3a4023e692943d'}
-  - {seq: 1, filename: KR6j0318_001.yaml, hash: 'sha256:6eadaca5331954dc926d2c4ea64289ef6a7821d7fea5a665372cb98e887b2067'}
+  - {seq: 1, filename: KR6j0318_001.yaml, hash: 'sha256:cc156bde2378b5ed9860201844150fda306a169ee6f13710c62ac505865728d5'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0318_000.markers.yaml, hash: 'sha256:202f6437d8a4f6187c3451cd3f2a6a90a98ea877602a7d1fb092c7eea4a6b424'}
-  - {seq: 1, role: markers, filename: assets/KR6j0318_001.markers.yaml, hash: 'sha256:551c4f129bc4bd0b0893dc9eae1939fef544259a7de48fdae68a6885cad12433'}
+  - {seq: 1, role: markers, filename: assets/KR6j0318_001.markers.yaml, hash: 'sha256:9a62d854d29866d0330d4ebda39716a9f8dd01cd9fb652aafd2e52d163ced76e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 救度佛母二十一種禮讚經
   type: juan
   level: 1
-hash: sha256:3e9a519fe18266fbbe14dc3ae33523f841ad9fc5c56a7d7431df047b51044499
+hash: sha256:4abb9f1ccea9deaf7c270f702986f2506fe81a51ec43ad224b310a73e5176e9b
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
